@@ -1,2 +1,1 @@
-# papers
-summary of ML papers I've read
+- Summary of ML papers I've read in recorded in Issues
