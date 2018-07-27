@@ -1,5 +1,5 @@
 - Summary of ML papers I've read in recorded in Issues
-- Questions to ask myself when reading papers..
+- Questions to ask myself when reading papers.. (Reference : [Guide to Reading Academic Research Papers](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6))
 ```
 1. What previous research and ideas were cited that this paper is building off of? (this info tends to live in the introduction)
 2. Was there reasoning for performing this research, if so what was it? (introduction section)
@@ -15,5 +15,4 @@
 12. Are any of the authors familiar, do you know their previous work? 
 13. What key terms and concepts do I not know and need to look up in a dictionary, textbook, or ask someone?
 14. What are your thoughts on the results? Do they seem valid?
-Reference : [Guide to Reading Academic Research Papers](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6)
 ```
